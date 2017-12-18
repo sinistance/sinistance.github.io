@@ -1,0 +1,12 @@
+ext,MNC TV,https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+ext,GLOBAL TV,https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+ext,RCTI,https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
+ext,SCTV,https://kmklive-lh.akamaihd.net/i/sctv_live@577566/index_360_av-p.m3u8
+ext,ANTV,https://kmklive-lh.akamaihd.net/i/antv_live@577566/index_360_av-p.m3u8
+ext,TRANS7,https://kmklive-lh.akamaihd.net/i/trans7_live@137568/index_360_av-p.m3u8
+ext,TV ONE,https://stream-ec.dmcdn.net/06/dm/3/x619221/live-3.m3u8
+ext,TRANSTV,https://kmklive-lh.akamaihd.net/i/transtv_live@137568/index_360_av-p.m3u8
+ext,INDOSIAR,http://live1.indostreamingtv.com/live/tv5/index.m3u8
+ext,METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+ext,KOMPAS TV,https://stream-02.sv6.dailymotion.com/06/dm/3/x5rh8ih/live-3.m3u8
+live,NET TV,https://www.youtube.com/watch?v=17a87wPqD7Y,auto
